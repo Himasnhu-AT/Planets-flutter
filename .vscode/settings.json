@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/FILES/Flutter/practise/Planets-UI/linux"
+    "cmake.sourceDirectory": "C:/FILES/Flutter/practise/Planets-UI/linux",
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
